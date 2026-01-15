@@ -18,25 +18,4 @@ Automated analysis workflow for hydraulic modeling using Python, reducing manual
 # Install dependencies
 pip install -r requirements.txt
 
-# Run analysis
-jupyter notebook hydraulic_analysis.ipynb
 ```
-
-## 📊 Sample Output
-<img width="376" height="406" alt="Houston_Drainage_Model" src="https://github.com/user-attachments/assets/07f672f4-4385-46bc-a686-40223a99c002" />
-
-
-## 💡 Key Features
-- Automated data validation
-- Batch processing capability
-- Publication-quality visualizations
-- Exportable reports
-
-## 🔧 Skills Demonstrated
-`Python` `Pandas` `Data Analysis` `Jupyter` `Hydraulic Engineering` `Automation`
-
-## 📧 Contact
-[[LinkedIn link]](https://www.linkedin.com/in/yolanys-aranda-ms/)
-```
-
-
