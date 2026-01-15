@@ -15,9 +15,6 @@ Automated analysis workflow for hydraulic modeling using Python, reducing manual
 3. Generates visualization of results
 4. Produces summary reports
 
-# Install dependencies
-pip install -r requirements.txt
-
 ## 📊 Sample Output
 <img width="376" height="406" alt="Houston_Drainage_Model" src="https://github.com/user-attachments/assets/a1a55d85-8a42-4b8f-b037-15b83475cf76" />
 
@@ -32,3 +29,4 @@ pip install -r requirements.txt
 
 ## 📧 Contact
 [[LinkedIn link]](https://www.linkedin.com/in/yolanys-aranda-ms/)
+
