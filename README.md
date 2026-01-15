@@ -5,7 +5,7 @@
 Automated analysis workflow for hydraulic modeling using Python, reducing manual calculation time from hours to minutes.
 
 ## 🛠️ Technologies
-- **Python 3.x** with pandas, numpy, matplotlib
+- **Python 3.11.4** with pandas, numpy, matplotlib
 - **Jupyter Notebooks** for reproducible analysis
 - **Data Sources:** Open Topography
 
@@ -38,4 +38,5 @@ jupyter notebook hydraulic_analysis.ipynb
 ## 📧 Contact
 [[LinkedIn link]](https://www.linkedin.com/in/yolanys-aranda-ms/)
 ```
+
 
